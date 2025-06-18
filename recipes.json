@@ -1,0 +1,250 @@
+[
+  {
+    "dish_name": "Nasi Lemak",
+    "style": "Malaysian",
+    "image_url": "https://qbistro.com/wp-content/uploads/2024/01/nasi-lemak-e1709887341862.png",
+    "description": "Fragrant coconut rice served with spicy sambal, crispy anchovies, peanuts, egg, and cucumber.",
+    "ingredients": [
+      {"name": "rice", "quantity": 2, "unit": "Cup"},
+      {"name": "coconut milk", "quantity": 2, "unit": "Cup"},
+      {"name": "pandan leaves, knotted", "quantity": 2, "unit": "Piece"},
+      {"name": "salt", "quantity": 0.5, "unit": "Teaspoon"},
+      {"name": "anchovies", "quantity": 100, "unit": "Gram"},
+      {"name": "boiled eggs", "quantity": 2, "unit": "Unit"},
+      {"name": "roasted peanuts", "quantity": 50, "unit": "Gram"},
+      {"name": "cucumber, sliced", "quantity": 1, "unit": "Unit"},
+      {"name": "sambal", "quantity": 3, "unit": "Tablespoon"}
+    ],
+    "cooking_steps": [
+      "Rinse the rice, then cook with coconut milk, pandan Piece, and salt until fluffy.",
+      "Fry anchovies until crispy and golden brown.",
+      "Boil eggs and slice cucumber.",
+      "Serve rice with sambal, anchovies, boiled egg, peanuts, and cucumber slices."
+    ],
+    "number_favourites": 193,
+    "userId": "",
+    "category": "Breakfast"
+  },
+  {
+    "dish_name": "Char Kway Teow",
+    "style": "Malaysian",
+    "image_url": "https://www.ajinomotofoodbizpartner.com.my/wp-content/uploads/2023/11/Char-Kuey-Teow-mobile-02-jpg.webp",
+    "description": "Stir-fried flat rice noodles with shrimp, egg, bean sprouts, and chives in a savory soy sauce.",
+    "ingredients": [
+      {"name": "flat rice noodles", "quantity": 200, "unit": "Gram"},
+      {"name": "shrimp, peeled", "quantity": 100, "unit": "Gram"},
+      {"name": "egg", "quantity": 1, "unit": "Unit"},
+      {"name": "bean sprouts", "quantity": 50, "unit": "Gram"},
+      {"name": "Chinese chives, chopped", "quantity": 2, "unit": "Stalk"},
+      {"name": "dark soy sauce", "quantity": 1, "unit": "Tablespoon"},
+      {"name": "light soy sauce", "quantity": 1, "unit": "Tablespoon"},
+      {"name": "garlic, minced", "quantity": 2, "unit": "Clove"},
+      {"name": "cooking oil", "quantity": 2, "unit": "Tablespoon"}
+    ],
+    "cooking_steps": [
+      "Heat oil in a wok and sauté garlic.",
+      "Add shrimp and cook until pink.",
+      "Push shrimp aside, crack in egg and scramble.",
+      "Add noodles, bean sprouts, chives, and sauces; stir-fry over high heat until smoky and well combined."
+    ],
+    "number_favourites": 193,
+    "userId": "",
+    "category": "Breakfast"
+  },
+  {
+    "dish_name": "Roti Canai",
+    "style": "Malaysian",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/YosriRotiCanai.jpg",
+    "description": "Crispy and flaky flatbread usually served with dhal or curry.",
+    "ingredients": [
+      {"name": "all-purpose flour", "quantity": 3, "unit": "Cup"},
+      {"name": "salt", "quantity": 1, "unit": "Teaspoon"},
+      {"name": "egg", "quantity": 1, "unit": "Unit"},
+      {"name": "water", "quantity": 1, "unit": "Cup"},
+      {"name": "ghee or cooking oil", "quantity": 3, "unit": "Tablespoon"}
+    ],
+    "cooking_steps": [
+      "Mix flour, salt, egg, and water to form a soft dough.",
+      "Knead and coat with oil, then rest for at least 4 hours.",
+      "Flatten and stretch dough thin, then fold and pan-fry until golden and crisp."
+    ],
+    "number_favourites": 193,
+    "userId": "",
+    "category": "Breakfast"
+  },
+  {
+    "dish_name": "Laksa Johor",
+    "style": "Malaysian",
+    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmy.theasianparent.com%2Fresepi-laksa-johor",
+    "description": "Spaghetti noodles in a thick fish-based coconut gravy, garnished with herbs and vegetables.",
+    "ingredients": [
+      {"name": "spaghetti", "quantity": 200, "unit": "Gram"},
+      {"name": "mackerel fish, boiled and deboned", "quantity": 2, "unit": "Unit"},
+      {"name": "coconut milk", "quantity": 1, "unit": "Cup"},
+      {"name": "lemongrass, smashed", "quantity": 2, "unit": "Stalk"},
+      {"name": "galangal", "quantity": 2, "unit": "Slice"},
+      {"name": "shallots", "quantity": 5, "unit": "Unit"},
+      {"name": "dried chilies, soaked and blended", "quantity": 4, "unit": "Unit"},
+      {"name": "turmeric", "quantity": 1, "unit": "Teaspoon"},
+      {"name": "cooking oil", "quantity": 2, "unit": "Tablespoon"}
+    ],
+    "cooking_steps": [
+      "Boil and blend fish into a paste.",
+      "Sauté blended shallots, turmeric, and chilies with lemongrass and galangal.",
+      "Add fish paste and coconut milk, simmer until thick.",
+      "Serve over spaghetti with cucumber, bean sprouts, and herbs."
+    ],
+    "number_favourites": 193,
+    "userId": "",
+    "category": "Breakfast"
+  },
+  {
+    "dish_name": "Ayam Masak Merah",
+    "style": "Malaysian",
+    "image_url": "https://cdn.kuali.com/wp-content/uploads/2004/01/08111532/175225445_m.jpg",
+    "description": "Chicken simmered in a rich tomato and chili sauce, often served with rice.",
+    "ingredients": [
+      {"name": "chicken, cut into pieces", "quantity": 500, "unit": "Gram"},
+      {"name": "tomato puree", "quantity": 0.5, "unit": "Cup"},
+      {"name": "dried chilies, blended", "quantity": 6, "unit": "Unit"},
+      {"name": "onion, blended", "quantity": 1, "unit": "Unit"},
+      {"name": "garlic, minced", "quantity": 2, "unit": "clove"},
+      {"name": "ginger, minced", "quantity": 1, "unit": "Inch"},
+      {"name": "cinnamon stick", "quantity": 1, "unit": "Unit"},
+      {"name": "cloves", "quantity": 2, "unit": "Clove"},
+      {"name": "cooking oil", "quantity": 2, "unit": "Tablespoon"}
+    ],
+    "cooking_steps": [
+      "Marinate chicken with salt and fry until browned.",
+      "Sauté onion, garlic, ginger, and spices.",
+      "Add chili and tomato puree, cook until fragrant.",
+      "Add chicken, cover and simmer until tender and well coated."
+    ],
+    "number_favourites": 193,
+    "userId": "",
+    "category": "Breakfast"
+  },
+  {
+    "dish_name": "Mee Rebus",
+    "style": "Malaysian",
+    "image_url": "https://ucarecdn.com/76a65f56-fcfa-44b9-aa1f-c63938b4b797/-/scale_crop/1280x960/center/-/quality/normal/-/format/jpeg/mee-rebus.jpg",
+    "description": "Egg noodles in a thick sweet potato gravy, topped with egg and tofu.",
+    "ingredients": [
+      {"name": "yellow noodles", "quantity": 200, "unit": "Gram"},
+      {"name": "sweet potatoes, boiled and mashed", "quantity": 2, "unit": "Unit"},
+      {"name": "garlic", "quantity": 2, "unit": "Clove"},
+      {"name": "shallots", "quantity": 2, "unit": "Unit"},
+      {"name": "fermented soybean paste", "quantity": 1, "unit": "Tablespoon"},
+      {"name": "fried tofu, cubed", "quantity": 100, "unit": "Gram"},
+      {"name": "hard-boiled egg, halved", "quantity": 1, "unit": "Unit"},
+      {"name": "soy sauce", "quantity": 1, "unit": "Tablespoon"}
+    ],
+    "cooking_steps": [
+      "Blend garlic, shallots, and soybean paste.",
+      "Sauté until fragrant, add mashed sweet potato and soy sauce.",
+      "Add water to adjust thickness and simmer.",
+      "Pour gravy over noodles and top with egg and tofu."
+    ],
+    "number_favourites": 193,
+    "userId": "",
+    "category": "Breakfast"
+  },
+  {
+    "dish_name": "Sambal Udang Petai",
+    "style": "Malaysian",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxZcgZFl71Jr8zx101iaE5J-T3jLYpSkj_rQ&s",
+    "description": "Spicy prawns cooked with petai beans in a rich sambal sauce.",
+    "ingredients": [
+      {"name": "prawns, cleaned", "quantity": 300, "unit": "Gram"},
+      {"name": "petai (stink beans), sliced", "quantity": 50, "unit": "Gram"},
+      {"name": "red chilies, blended", "quantity": 6, "unit": "Unit"},
+      {"name": "shallots", "quantity": 3, "unit": "Unit"},
+      {"name": "belacan (shrimp paste)", "quantity": 1, "unit": "Tablespoon"},
+      {"name": "tamarind juice", "quantity": 2, "unit": "Tablespoon"},
+      {"name": "sugar", "quantity": 1, "unit": "Teaspoon"}
+    ],
+    "cooking_steps": [
+      "Blend chilies, shallots, and belacan into a paste.",
+      "Sauté paste until oil separates.",
+      "Add prawns and cook until pink.",
+      "Add petai, tamarind juice, sugar and simmer for 5 minutes."
+    ],
+    "number_favourites": 193,
+    "userId": "",
+    "category": "Breakfast"
+  },
+  {
+    "dish_name": "Hainanese Chicken Rice",
+    "style": "Malaysian",
+    "image_url": "https://rasamalaysia.com/wp-content/uploads/2024/11/chicken-rice-thumb.jpg",
+    "description": "Tender poached chicken served with fragrant rice and chili-ginger sauce.",
+    "ingredients": [
+      {"name": "whole chicken", "quantity": 1, "unit": "Whole"},
+      {"name": "ginger", "quantity": 3, "unit": "Slice"},
+      {"name": "garlic", "quantity": 3, "unit": "Clove"},
+      {"name": "jasmine rice", "quantity": 2, "unit": "Cup"},
+      {"name": "chicken broth", "quantity": 3, "unit": "Cup"},
+      {"name": "sesame oil", "quantity": 1, "unit": "Tablespoon"},
+      {"name": "soy sauce", "quantity": 2, "unit": "Tablespoon"},
+      {"name": "spring onion", "quantity": 1, "unit": "Stalk"}
+    ],
+    "cooking_steps": [
+      "Poach chicken with ginger and spring onion until cooked, reserve broth.",
+      "Sauté garlic and ginger, then cook rice using chicken broth.",
+      "Chop chicken, drizzle with soy sauce and sesame oil.",
+      "Serve with fragrant rice and chili sauce on the side."
+    ],
+    "number_favourites": 193,
+    "userId": "",
+    "category": "Breakfast"
+  },
+  {
+    "dish_name": "Beef Rendang",
+    "style": "Malaysian",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCx3EKpFjM8z8YVTlqNg26OcClPlCcnWCwCQ&s",
+    "description": "Slow-cooked beef in aromatic coconut gravy until dry and flavorful.",
+    "ingredients": [
+      {"name": "beef, cubed", "quantity": 500, "unit": "Gram"},
+      {"name": "coconut milk", "quantity": 1, "unit": "Cup"},
+      {"name": "lemongrass, smashed", "quantity": 2, "unit": "Stalk"},
+      {"name": "galangal", "quantity": 2, "unit": "Slice"},
+      {"name": "shallots, blended", "quantity": 5, "unit": "Unit"},
+      {"name": "red chilies, blended", "quantity": 4, "unit": "Unit"},
+      {"name": "turmeric powder", "quantity": 1, "unit": "Teaspoon"},
+      {"name": "cooking oil", "quantity": 2, "unit": "Tablespoon"}
+    ],
+    "cooking_steps": [
+      "Blend spices into a smooth paste.",
+      "Sauté paste with lemongrass and galangal until fragrant.",
+      "Add beef and coconut milk, simmer for 2-3 hours.",
+      "Cook until gravy thickens and beef is tender."
+    ],
+    "number_favourites": 193,
+    "userId": "",
+    "category": "Breakfast"
+  },
+  {
+    "dish_name": "Kuih Seri Muka",
+    "style": "Malaysian",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ZqasU_MPuR0YDXVal9NeFIKE1lmQBO0XAQ&s",
+    "description": "Two-layered dessert made with sticky rice base and pandan custard topping.",
+    "ingredients": [
+      {"name": "glutinous rice", "quantity": 2, "unit": "Cup"},
+      {"name": "coconut milk", "quantity": 1, "unit": "Cup"},
+      {"name": "salt", "quantity": 0.5, "unit": "Teaspoon"},
+      {"name": "pandan juice", "quantity": 0.5, "unit": "Cup"},
+      {"name": "eggs", "quantity": 2, "unit": "Unit"},
+      {"name": "sugar", "quantity": 0.5, "unit": "Cup"},
+      {"name": "all-purpose flour", "quantity": 0.25, "unit": "Cup"}
+    ],
+    "cooking_steps": [
+      "Steam glutinous rice with coconut milk and salt until cooked.",
+      "Mix pandan juice, eggs, sugar, and flour for the custard.",
+      "Layer the custard over rice and steam for 20 minutes.",
+      "Cool before cutting into pieces."
+    ],
+    "number_favourites": 193,
+    "userId": "",
+    "category": "Breakfast"
+  }
+]
